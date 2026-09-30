@@ -30,7 +30,7 @@ Related terms you may also encounter:
 - **"VD"** — design dive speed (the symbol used in certification, e.g., CS-23/FAR-23)
 - **"velocidad de descenso"** — descent speed (not the same; a descent is not a dive)
 
-If you mean the certification term **"design dive speed"**, that is **"velocidad de picado de diseño"** (symbol **VD**).
+The certification term **"design dive speed"**, that is **"velocidad de picado de diseño"** (symbol **VD**).
 
 So the direct translation is **"velocidad de picado."**
 
